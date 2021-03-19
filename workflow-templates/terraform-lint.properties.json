@@ -1,0 +1,5 @@
+{
+  "name": "Terraform lint ci",
+  "description": "A check to see if the basic linting and formatting rules of Terraform are followed",
+  "iconName": "terraform-logo"
+}
