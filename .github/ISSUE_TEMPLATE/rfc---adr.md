@@ -1,9 +1,8 @@
 ---
-name: RFC / ARD
+name: RFC / ADR
 about: To be used to inform the tech team of major tech changes.
 title: "[RFC]"
-labels: ARD, RFC
-assignees: rohan-buchner
+labels: RFC, ADR
 
 ---
 
